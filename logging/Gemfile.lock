@@ -64,7 +64,7 @@ GEM
     orderedhash (0.0.6)
     os (0.9.6)
     public_suffix (2.0.4)
-    rack (2.0.1)
+    rack (2.2.3)
     rack-test (0.6.3)
       rack (>= 1.0)
     representable (2.3.0)
